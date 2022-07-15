@@ -1,0 +1,20 @@
+{
+  "name": "apex-fizzbuzz",
+  "version": "0.1.1",
+  "description": "An example FizzBuzz experiment within Apex",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamessimone/ApexFizzBuzz"
+  },
+  "author": "james.simone",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier-plugin-apex": "latest",
+    "prettier": "latest"
+  },
+  "keywords": [
+    "salesforce",
+    "apex",
+    "fizzbuzz"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "core",
+      "default": true
+    }
+  ],
+  "name": "ApexFizzBuzz",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
